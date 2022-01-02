@@ -5,7 +5,7 @@
         <v-row class="max-size" justify="center" dense>
           <div class="header primary">
             <v-img max-height="150" max-width="250" src="../assets/notepad_icon.png" alt="Logo Notepad" contain ></v-img>
-            <div class="header-text">{{ header.text }}</div>
+            <div class="header-text">{{ header.text  }}</div>
           </div>
         </v-row>
         <br />
