@@ -1,4 +1,8 @@
-# todo-app-v1
+# Todo App V1.0
+
+## Metodologia
+### Vue Js e Vuetify.
+
 
 ## Project setup
 ```
